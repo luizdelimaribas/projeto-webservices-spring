@@ -1,4 +1,4 @@
-package com.exercicioCursoJava.Projeto.web.services.resourses;
+package com.exercicioCursoJava.Projeto.web.services.resources;
 
 import java.util.List;
 
@@ -14,7 +14,7 @@ import com.exercicioCursoJava.Projeto.web.services.services.ProductService;
 
 @RestController
 @RequestMapping(value = "/products")
-public class ProductResouusers {
+public class ProductResources {
 
     @Autowired
     public ProductService productService;

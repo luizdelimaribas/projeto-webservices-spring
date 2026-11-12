@@ -1,4 +1,4 @@
-package com.exercicioCursoJava.Projeto.web.services.resourses;
+package com.exercicioCursoJava.Projeto.web.services.resources;
 
 import java.util.List;
 
@@ -14,7 +14,7 @@ import com.exercicioCursoJava.Projeto.web.services.services.CategoryService;
 
 @RestController
 @RequestMapping(value = "/categories")
-public class CategoryResouusers {
+public class CategoryResources {
 
     @Autowired
     public CategoryService categoryService;

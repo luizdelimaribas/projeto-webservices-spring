@@ -1,4 +1,4 @@
-package com.exercicioCursoJava.Projeto.web.services.resourses;
+package com.exercicioCursoJava.Projeto.web.services.resources;
 
 import java.util.List;
 
