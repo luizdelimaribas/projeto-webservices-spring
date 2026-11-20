@@ -12,7 +12,7 @@ API REST desenvolvida com Java e Spring Boot para gerenciamento de usuários, pe
 - PostgreSQL
 - H2 Database
 - Maven, com Maven Wrapper
-- JUnit 5 e Spring Boot Test
+
 
 ## Pré-requisitos
 
